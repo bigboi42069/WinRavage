@@ -3,7 +3,6 @@
 WinRavage.sh is a bash script that stress-tests Windows machines using unconventional methods until failure.
 It tests Windows' response to extreme code execution scenarios.
 The script doesn't persist after execution and contains no harmful files or programs.
-Used for research and educational purposes.
 
 ## Usage
 1. Ensure you have a Bash environment (Git Bash or WSL on Windows)
